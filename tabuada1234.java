@@ -36,5 +36,7 @@ switch(menu){
     System.out.print(n!=0);
     break;
 }
-
+}while(menu!=0);
+  }
+}
   
